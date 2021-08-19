@@ -10,7 +10,7 @@ export default function Works() {
           icon: "./assets/mobile.png",
           title: "Website Development",
           desc:
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+            "Websites don't have to be static, I love making pages come to life. ",
           img:
             "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
         },
