@@ -15,6 +15,10 @@
         img{
             height: 100%;
 
+            @include mobile{
+                width: 100%;
+            }
+
         }
     }
     .right{
