@@ -7,7 +7,7 @@ export default function Works() {
     const data = [
         {
           id: "1",
-          icon: "./assets/mobile.png",
+          icon: "./assets/website.png",
           title: "Website Development",
           desc:
             "Websites don't have to be static, I love making pages come to life. ",
@@ -16,19 +16,19 @@ export default function Works() {
         },
         {
           id: "2",
-          icon: "./assets/globe.png",
+          icon: "./assets/mobile.png",
           title: "Mobile Application",
           desc:
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "Don't you need a mobile application that is user-friendly, easy to navigate as well as visually appealing? Hire me",
           img:
             "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
         },
         {
           id: "3",
-          icon: "./assets/writing.png",
+          icon: "./assets/design.png",
           title: "Desiging",
           desc:
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "You don't know how your website should look? Hire me.",
           img:
             "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
         },
