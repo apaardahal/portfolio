@@ -7,7 +7,7 @@ export const featuredPortfolio = [
     },
     {
       id: 2,
-      title: "Rampa UI Design",
+      title: " UI Design",
       img:
         "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
     },
@@ -79,7 +79,7 @@ export const featuredPortfolio = [
     },
     {
       id: 2,
-      title: "Mobile Rampa UI Design",
+      title: "Mobile  UI Design",
       img:
         "https://cdn.dribbble.com/users/5920881/screenshots/15463142/media/b5a460223798bd85d835710806e2f3dd.png?compress=1&resize=1200x900",
     },
@@ -118,7 +118,7 @@ export const featuredPortfolio = [
     },
     {
       id: 2,
-      title: "Design Rampa UI Design",
+      title: "Design  UI Design",
       img:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
     },
@@ -157,7 +157,7 @@ export const featuredPortfolio = [
     },
     {
       id: 2,
-      title: "Content Rampa UI Design",
+      title: "Content  UI Design",
       img:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
     },
@@ -175,7 +175,7 @@ export const featuredPortfolio = [
     },
     {
       id: 5,
-      title: "Content Keser Web Design",
+      title: "Content Web Design",
       img:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
     },
